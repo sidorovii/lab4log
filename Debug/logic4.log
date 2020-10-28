@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\zorro\source\repos\logic4\Source.cpp(53,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic4\Source.cpp(117,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  logic4.vcxproj -> C:\Users\zorro\source\repos\logic4\Debug\logic4.exe

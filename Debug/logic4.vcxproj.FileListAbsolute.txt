@@ -1,0 +1,2 @@
+C:\Users\zorro\source\repos\logic4\Debug\logic4.exe
+C:\Users\zorro\source\repos\logic4\Debug\logic4.pdb
